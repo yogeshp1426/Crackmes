@@ -1,0 +1,7 @@
+Name: Harel21's crackme
+Author: Harel21
+Link -> https://crackmes.one/crackme/6047ffb433c5d42c3d016da6
+
+Language: C/C++
+Difficulty: 1.0
+Quality: 4.0
